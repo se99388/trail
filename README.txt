@@ -3,7 +3,7 @@ Study Name,E. Coli,
 Batch Name,01.01.13
 Type,Pour Plate
 Based on,totalcount
-Comment,
+
 
 System Parameters
 Video State,Inverted,
